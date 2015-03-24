@@ -25,7 +25,7 @@
   ],
   "license": "BSD",
   "dependencies": {
-    "conventional-changelog": "0.0.16"
+    "conventional-changelog": "git://github.com/dangeross/conventional-changelog.git"
   },
   "devDependencies": {
     "ava": "0.0.4",
